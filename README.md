@@ -23,6 +23,10 @@ Training vs Validation Accuracy:
 
 
 Demo:
+
+
+
+
 ![Demo](https://raw.githubusercontent.com/vneogi199/Fashion-MNIST-using-CNN/master/Screenshot%20from%202018-05-24%2013-49-53.png)
 
 
